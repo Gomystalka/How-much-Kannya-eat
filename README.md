@@ -14,7 +14,7 @@
 
 
 
-<img width="100" height="100" src="https://i.imgur.com/k0ueMCG.gif"/>
+<img width="50%" height="50%" src="https://i.imgur.com/k0ueMCG.gif"/>
 <h3><b>She eat...</b></h3>
 
 <img src="https://i.ytimg.com/vi/YOoaozFagZQ/maxresdefault.jpg"/>
