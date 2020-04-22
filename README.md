@@ -17,7 +17,7 @@
 <img width="50%" height="50%" src="https://i.imgur.com/k0ueMCG.gif"/>
 <h3><b>She eat...</b></h3>
 
-<img src="https://i.ytimg.com/vi/YOoaozFagZQ/maxresdefault.jpg"/>
+<img width="30%" height="30%" src="https://i.ytimg.com/vi/YOoaozFagZQ/maxresdefault.jpg"/>
 <h3><b>She collecc</b></h3>
 <br>
 <h2><b>But most importantly...</b></h2>
