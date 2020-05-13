@@ -15,9 +15,9 @@
 <h3><b>She eat...</b></h3>
 <img width="50%" height="50%" src="https://i.imgur.com/k0ueMCG.gif"/>
 <br>
-<h3><b>She collecc</b></h3>
+<h3><b>She collecc...</b></h3>
 <img width="50%" height="50%" src="https://i.ytimg.com/vi/YOoaozFagZQ/maxresdefault.jpg"/>
 <br>
 <h2><b>But most importantly...</b></h2>
-<h3><b>She protecc</b></h3>
+<h3><b>She protecc!</b></h3>
 <img  width="50%" height="50%" src="https://i.pinimg.com/originals/bc/07/c6/bc07c6158733986ca5c8d4ace508a2ae.png"/>
