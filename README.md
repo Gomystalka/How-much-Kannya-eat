@@ -18,7 +18,7 @@ There are four different Crab Rarities. The rarity determines how much hunger th
 To eat a Crab you have caught, go into your Inventory and click on the Crab you wish to eat.
 
 <h1>Gameplay Demo</h1>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OX5nZD4TcAk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/OX5nZD4TcAk
 
 <h1>Controls</h1>
 <ul>
