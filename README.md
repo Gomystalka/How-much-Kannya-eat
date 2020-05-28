@@ -32,6 +32,7 @@ To eat a Crab you have caught, go into your Inventory and click on the Crab you 
 <ul>
   <li><b>Greek555 -> Music</b></li>
   <li><b>Icemega5/Yukistea -> Kanna Model</b></li>
+  <li><b>Everything else was made by me</b></li>
 </ul>
 
 <h3><b>She eat...</b></h3>
